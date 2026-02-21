@@ -1,0 +1,13 @@
+{
+	"name": "toPersianDigits",
+	"id": "1607076918790620252",
+	"api": "1.0.0",
+	"main": "src/main.js",
+	"capabilities": [],
+	"enableProposedApi": false,
+	"documentAccess": "dynamic-page",
+	"editorType": ["figma", "figjam", "slides"],
+	"networkAccess": {
+		"allowedDomains": ["none"]
+	}
+}
